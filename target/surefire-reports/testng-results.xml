@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="13986" started-at="2016-01-26T21:05:03Z" finished-at="2016-01-26T21:05:17Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="13986" started-at="2016-01-26T21:05:03Z" finished-at="2016-01-26T21:05:17Z">
+      <class name="test.java.SmokeTest.Prod.SampleTest">
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method)" name="setUp" is-config="true" duration-ms="8301" started-at="2016-01-26T21:05:03Z" finished-at="2016-01-26T21:05:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.SmokeTest.Prod.SampleTest.test()]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="test()" name="test" duration-ms="4518" started-at="2016-01-26T21:05:11Z" finished-at="2016-01-26T21:05:15Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="1161" started-at="2016-01-26T21:05:15Z" finished-at="2016-01-26T21:05:17Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

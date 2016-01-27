@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Wal-VChandran3.local" name="test.java.SmokeTest.Prod.SampleTest" tests="1" failures="0" timestamp="27 Jan 2016 02:05:17 GMT" time="13.986" errors="0">
+  <testcase name="test" time="4.518" classname="test.java.SmokeTest.Prod.SampleTest"/>
+</testsuite>
